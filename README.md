@@ -4,7 +4,7 @@
 
 **Run Sample code**
 Here is the minimal code needed to submit a transaction to Urbanbuz. If your app and build environments are set up correctly, this code should compile and run without error. You can verify the created transation in journey platform.
-
+```java
     package com.urbanbuz.integration.app;
     import java.util.Map;
     import com.urbanbuz.integration.api.UrbanbuzAPI;
